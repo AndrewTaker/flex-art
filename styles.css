@@ -1,0 +1,7 @@
+@media (max-width: 650px) {
+    td {
+        display: block;
+        text-align: left;
+        margin: 0.5rem;
+    }
+}
